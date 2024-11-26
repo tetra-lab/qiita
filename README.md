@@ -1,2 +1,2 @@
-# qiitaへの外部リンクです。
+### qiitaへの外部リンクです。
 https://qiita.com/neon_tetra
